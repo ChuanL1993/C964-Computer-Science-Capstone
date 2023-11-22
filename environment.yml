@@ -22,7 +22,6 @@ dependencies:
   - conda-verify
   - menuinst
   - console_shortcut
-  - powershell_shortcut
   - ffmpeg
   - git
 prefix: C:\Users\heych\anaconda3
