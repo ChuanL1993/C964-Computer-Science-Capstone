@@ -9,6 +9,7 @@ dependencies:
   - numpy
   - matplotlib
   - pandas
+  - seaborn
   - jupyter
   - conda-build
   - conda-verify
