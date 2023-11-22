@@ -8,6 +8,7 @@ dependencies:
   - scikit-learn
   - numpy
   - matplotlib
+  - pandas
   - jupyter
   - conda-build
   - conda-verify
